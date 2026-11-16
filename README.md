@@ -1,4 +1,3 @@
-
 # AutoCPlay
 
 **让 CarPlay，自由上车。 / Your familiar CarPlay experience, on your car display.**
@@ -8,6 +7,18 @@
 [中文](#中文) | [English](#english)
 
 ## 中文
+
+### 开放文档项目
+
+本仓库公开 AutoCPlay 的项目介绍、使用指南和社区资料，文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可，欢迎分享和改进。本许可仅适用于本仓库原创文档；App 源码、技术实现、品牌标识与第三方内容不在此许可范围内。
+
+### 扫码下载测试版
+
+先在 iPhone 上安装 TestFlight，再用相机扫描下方二维码，按提示安装 AutoCPlay。
+
+[![AutoCPlay TestFlight 下载二维码](https://nexiumaionline.com/assets/testflight-qr.png)](https://testflight.apple.com/join/BuX7Uh9v)
+
+[使用指南](docs/README.md) · [下载入口](downloads/README.md) · [社区交流](community/README.md)
 
 AutoCPlay 让你在车机上使用熟悉的 CarPlay 界面与操作方式。连接后，就像平时使用 CarPlay 一样：打开你习惯的应用，在车机上轻松操作。
 
@@ -53,6 +64,16 @@ AutoCPlay 让你在车机上使用熟悉的 CarPlay 界面与操作方式。连�
 ---
 
 ## English
+
+### Open documentation project
+
+This repository shares the AutoCPlay introduction, user guides, and community resources under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Contributions and sharing are welcome. The license covers original documentation in this repository only; app source code, implementation details, brand assets, and third-party content are outside its scope.
+
+### Scan to download the beta
+
+Install TestFlight on your iPhone first, then scan the QR code above with your camera and follow the prompts to install AutoCPlay.
+
+[User guide](docs/README.md) · [Downloads](downloads/README.md) · [Community](community/README.md)
 
 AutoCPlay brings the familiar CarPlay interface and controls to your car display. Once connected, use it just as you normally use CarPlay: open your favorite apps and enjoy familiar controls on your car screen.
 
