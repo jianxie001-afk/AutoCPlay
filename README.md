@@ -1,5 +1,7 @@
 # AutoCPlay
 
+> **免费使用 / Free to use** — AutoCPlay 可免费下载和使用。 / AutoCPlay is free to download and use.
+
 **让 CarPlay，自由上车。 / Your familiar CarPlay experience, on your car display.**
 
 [官网 / Website](https://nexiumaionline.com) · [下载测试版 / Get the beta](https://testflight.apple.com/join/BuX7Uh9v) · [Discord 社区 / Community](https://discord.gg/s5JQjwwDZ)
@@ -23,6 +25,8 @@
 AutoCPlay 让你在车机上使用熟悉的 CarPlay 界面与操作方式。连接后，就像平时使用 CarPlay 一样：打开你习惯的应用，在车机上轻松操作。
 
 ### 为什么选择 AutoCPlay
+
+- **免费使用**：免费下载 AutoCPlay，轻松开始使用。
 
 - **熟悉好用**：熟悉的 CarPlay 使用方式，轻松上手。
 - **无线便捷**：支持 Wi-Fi 连接，车机浏览器即可使用。
@@ -78,6 +82,8 @@ Install TestFlight on your iPhone first, then scan the QR code above with your c
 AutoCPlay brings the familiar CarPlay interface and controls to your car display. Once connected, use it just as you normally use CarPlay: open your favorite apps and enjoy familiar controls on your car screen.
 
 ### Why AutoCPlay
+
+- **Free to use**: download AutoCPlay for free and get started.
 
 - **Familiar and easy**: the CarPlay experience you already know.
 - **Wireless convenience**: connect over Wi-Fi and use your car display’s browser.
